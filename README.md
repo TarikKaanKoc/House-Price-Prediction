@@ -1,6 +1,6 @@
   House Price Prediction Projcet           
 :-------------------------:|
-![IMAGE](https://github.com/TarikKaanKoc/House-Price-Prediction/blob/main/image.jpg?raw=True)| 
+![IMAGE](https://github.com/TarikKaanKoc/House-Price-Prediction/blob/main/imagge.jpg?raw=True)| 
 
 
     
