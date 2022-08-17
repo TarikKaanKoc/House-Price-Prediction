@@ -5,6 +5,6 @@
 
     
 <strong><h2>Dataset Story</h2></strong>
-<blockquote><p><strong>The data set consists of information from Scoutium, which includes the features and scores of the football players evaluated by the scouts according to the characteristics of the footballers observed in the matches.</strong></p>
+<blockquote><p><strong>This dataset of residential homes in Lowa, Ames contains 79 explanatory variables. Since the dataset belongs to a kaggle competition, there are two different csv files, train and test. House prices are left blank in the test data set, and you are expected to predict these values.</strong></p>
 </blockquote>
 
